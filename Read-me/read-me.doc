@@ -1,0 +1,47 @@
+
+
+---------------------------------------------
+
+Etape 1: Apprendre a faire mon 1er pluggin:
+https://www.hostinger.fr/tutoriels/creer-un-plugin-wordpress#Ce_dont_vous_aurez_besoin
+
+---------------------------------------------
+
+creation rapide d'un theme enfant avec l'extension "Child Theme Configurator" comme appris en cours au Bocal Academy.
+
+---------------------------------------------
+
+Etape 2: Apprendre a creer mon 1er CPT avec quelques tuto:
+https://wpmarmite.com/snippet/creer-custom-post-type/
+
+https://www.tutorialswebsite.com/create-custom-post-type-in-wordpress/#Creating_a_Custom_Post_Type_using_Plugin_-_The_Easy_Way
+
+
+POST TYPE GENERATOR:
+https://generatewp.com/post-type/
+
+
+---------------------------------------------
+
+Etape 3: Realiser un premier upload d un fichier.xlsx avec:
+https://www.phpfacile.com/apprendre_le_php/upload_de_fichier
+
+
+---------------------------------------------
+
+Etape 4: Faire un CPT activable et desactivable en plugin avec mon code pour upload mon fichier dedans:
+https://pressidium.com/blog/create-wordpress-custom-post-types-using-your-own-plugin/
+
+---------------------------------------------
+
+Les etapes qui m'ont manquees:
+
+Lire plus de doc sur PHPEXCEL pour mieux reussir mon upload:
+https://fr.wikibooks.org/wiki/Programmation_PHP/PHPExcel
+
+
+Une tres grosse analyse de ce repository GIT:
+https://github.com/designworksdev/wp-spreadsheet-acf-import
+
+---------------------------------------------
+
